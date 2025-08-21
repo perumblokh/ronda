@@ -1,0 +1,5 @@
+{
+  "name": "Jadwal Ronda Blok H",
+  "description": "A web application to manage and record the attendance for the neighborhood watch (ronda) at Blok H Perum Tanjung Residence. It allows tracking attendance, notes, and collection results, with a recap feature.",
+  "requestFramePermissions": []
+}
