@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "2025-08-21T07:34:57.001Z",
+    "date": "2025-08-20",
+    "day": "Rabu malam Kamis",
+    "officers": [
+      {
+        "name": "Bp Ujang Nur",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Lili",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Kosim",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Asep Sarboah",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "",
+    "collection": 0
+  }
+]
