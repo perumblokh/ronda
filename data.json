@@ -23,5 +23,34 @@
     ],
     "notes": "",
     "collection": 0
+  },
+  {
+    "id": "2025-08-22T06:43:20.508Z",
+    "date": "2025-08-21",
+    "day": "Kamis malam Jumat",
+    "officers": [
+      {
+        "name": "Bp Didin",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Hamzah",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Amrin",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Aden",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Nanda",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "Pendamping Bp Irwan",
+    "collection": 29000
   }
 ]
