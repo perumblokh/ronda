@@ -52,5 +52,42 @@
     ],
     "notes": "Pendamping Bp Irwan",
     "collection": 29000
+  },
+  {
+    "id": "2025-08-23T13:32:05.318Z",
+    "date": "2025-08-22",
+    "day": "Jumat malam Sabtu",
+    "officers": [
+      {
+        "name": "Bp Ujang Guru",
+        "status": "Ijin"
+      },
+      {
+        "name": "Bp Wawan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Riyan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Asep H62",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Irwan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Carkaya",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Andre",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "Kontribusi dari Bp Ujang 10.000",
+    "collection": 25000
   }
 ]
