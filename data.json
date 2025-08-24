@@ -89,5 +89,30 @@
     ],
     "notes": "Kontribusi dari Bp Ujang 10.000",
     "collection": 25000
+  },
+  {
+    "id": "2025-08-24T06:55:15.083Z",
+    "date": "2025-08-23",
+    "day": "Sabtu malam Minggu",
+    "officers": [
+      {
+        "name": "Bp Imam Kurtubi",
+        "status": "Ijin"
+      },
+      {
+        "name": "Bp Ayo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Ajo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Rizki",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "",
+    "collection": 22000
   }
 ]
