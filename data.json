@@ -114,5 +114,30 @@
     ],
     "notes": "",
     "collection": 22000
+  },
+  {
+    "id": "2025-08-25T13:20:22.870Z",
+    "date": "2025-08-24",
+    "day": "Minggu malam Senin",
+    "officers": [
+      {
+        "name": "Bp Haji Udin",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Imam H47",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Ikhsan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Rastam",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "5000 sobek",
+    "collection": 20000
   }
 ]
