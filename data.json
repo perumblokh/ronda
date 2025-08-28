@@ -141,7 +141,7 @@
     "collection": 20000
   },
    {
-    "id": "2025-08-27T13:20:15.870Z",
+    "id": "2025-08-26T13:20:15.870Z",
     "date": "2025-08-25",
     "day": "Senin malam Selasa",
     "officers": [
@@ -170,7 +170,7 @@
     "collection": 0
   },
   {
-    "id": "2025-08-26T13:20:22.870Z",
+    "id": "2025-08-27T13:20:22.870Z",
     "date": "2025-08-25",
     "day": "Selasa malam Rabu",
     "officers": [
@@ -184,7 +184,7 @@
       },
       {
         "name": "Bp Eka",
-        "status": "Hadir"
+        "status": "Alpa"
       }
     ],
     "notes": "Petugas Pengganti Bp Asep Sarboah",
