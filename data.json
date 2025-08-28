@@ -139,5 +139,30 @@
     ],
     "notes": "5000 sobek",
     "collection": 20000
+  },
+  {
+    "id": "2025-08-28T16:23:52.763Z",
+    "date": "2025-08-27",
+    "day": "Rabu malam Kamis",
+    "officers": [
+      {
+        "name": "Bp Ujang Nur",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Lili",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Kosim",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Asep Sarboah",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "tidak lapor prelek",
+    "collection": 0
   }
 ]
