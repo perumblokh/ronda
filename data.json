@@ -140,6 +140,56 @@
     "notes": "5000 sobek",
     "collection": 20000
   },
+   {
+    "id": "2025-08-27T13:20:15.870Z",
+    "date": "2025-08-25",
+    "day": "Senin malam Selasa",
+    "officers": [
+      {
+        "name": "Bp Aris H01",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Asep H03",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Yayan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Erik",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Inyeng H04",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "Tidak ada laporan",
+    "collection": 0
+  },
+  {
+    "id": "2025-08-26T13:20:22.870Z",
+    "date": "2025-08-25",
+    "day": "Selasa malam Rabu",
+    "officers": [
+      {
+        "name": "Bp Ma'ruf",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Sunara",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Eka",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "Petugas Pengganti Bp Asep Sarboah",
+    "collection": 0
+  },
   {
     "id": "2025-08-28T16:23:52.763Z",
     "date": "2025-08-27",
