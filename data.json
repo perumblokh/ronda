@@ -140,7 +140,7 @@
     "notes": "5000 sobek",
     "collection": 20000
   },
-   {
+  {
     "id": "2025-08-26T13:20:15.870Z",
     "date": "2025-08-25",
     "day": "Senin malam Selasa",
@@ -214,5 +214,42 @@
     ],
     "notes": "tidak lapor prelek",
     "collection": 0
+  },
+  {
+    "id": "2025-08-30T14:20:28.515Z",
+    "date": "2025-08-29",
+    "day": "Jumat malam Sabtu",
+    "officers": [
+      {
+        "name": "Bp Ujang Guru",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Wawan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Riyan",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Asep H62",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Irwan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Carkaya",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Andre",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "pendmping : Bp Imam kurtubi, Bp Didin, Engkong Yayan",
+    "collection": 28000
   }
 ]
