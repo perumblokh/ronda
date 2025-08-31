@@ -251,5 +251,30 @@
     ],
     "notes": "pendmping : Bp Imam kurtubi, Bp Didin, Engkong Yayan",
     "collection": 28000
+  },
+  {
+    "id": "2025-08-31T07:46:50.552Z",
+    "date": "2025-08-30",
+    "day": "Sabtu malam Minggu",
+    "officers": [
+      {
+        "name": "Bp Imam Kurtubi",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Ayo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Ajo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Rizki",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "",
+    "collection": 36500
   }
 ]
