@@ -215,7 +215,7 @@
     "notes": "tidak lapor prelek",
     "collection": 0
   },
-    {
+  {
     "id": "2025-08-29T06:43:20.508Z",
     "date": "2025-08-28",
     "day": "Kamis malam Jumat",
@@ -305,5 +305,30 @@
     ],
     "notes": "",
     "collection": 36500
+  },
+  {
+    "id": "2025-09-01T13:04:20.890Z",
+    "date": "2025-08-31",
+    "day": "Minggu malam Senin",
+    "officers": [
+      {
+        "name": "Bp Haji Udin",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Imam H47",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Ikhsan",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Rastam",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "Pendamping Bp Sarboah",
+    "collection": 27500
   }
 ]
