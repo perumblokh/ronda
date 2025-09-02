@@ -330,5 +330,34 @@
     ],
     "notes": "Pendamping Bp Sarboah",
     "collection": 27500
+  },
+  {
+    "id": "2025-09-02T12:29:32.065Z",
+    "date": "2025-09-01",
+    "day": "Senin malam Selasa",
+    "officers": [
+      {
+        "name": "Bp Aris H01",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Asep H03",
+        "status": "Ijin"
+      },
+      {
+        "name": "Bp Iyeng H04",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Yayan",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Erik",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "Masuk kas 15.000",
+    "collection": 31000
   }
 ]
