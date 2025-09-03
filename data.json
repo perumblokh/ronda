@@ -359,5 +359,26 @@
     ],
     "notes": "Masuk kas 15.000",
     "collection": 31000
+  },
+  {
+    "id": "2025-09-03T15:27:39.602Z",
+    "date": "2025-09-02",
+    "day": "Selasa malam Rabu",
+    "officers": [
+      {
+        "name": "Bp Ma'ruf",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Sunara",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Eka",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "di gantikan Bp sarboah dan bp kosim",
+    "collection": 0
   }
 ]
