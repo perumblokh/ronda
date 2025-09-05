@@ -380,5 +380,34 @@
     ],
     "notes": "di gantikan Bp sarboah dan bp kosim",
     "collection": 0
+  },
+  {
+    "id": "2025-09-05T16:50:18.656Z",
+    "date": "2025-09-04",
+    "day": "Kamis malam Jumat",
+    "officers": [
+      {
+        "name": "Bp Didin",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Hamzah",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Amrin",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Aden",
+        "status": "Alpa"
+      },
+      {
+        "name": "Bp Nanda",
+        "status": "Hadir"
+      }
+    ],
+    "notes": "Pendamping Bp irwan",
+    "collection": 34000
   }
 ]
