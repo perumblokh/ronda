@@ -409,5 +409,30 @@
     ],
     "notes": "Pendamping Bp irwan",
     "collection": 34000
+  },
+  {
+    "id": "2025-09-07T04:22:22.478Z",
+    "date": "2025-09-06",
+    "day": "Sabtu malam Minggu",
+    "officers": [
+      {
+        "name": "Bp Imam Kurtubi",
+        "status": "Ijin"
+      },
+      {
+        "name": "Bp Ayo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Ajo",
+        "status": "Hadir"
+      },
+      {
+        "name": "Bp Rizki",
+        "status": "Alpa"
+      }
+    ],
+    "notes": "Tambahan Petugas Bp Asep",
+    "collection": 31000
   }
 ]
